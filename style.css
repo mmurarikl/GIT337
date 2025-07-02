@@ -1,0 +1,16 @@
+:root{
+    --white: #fff;
+    --lt-gray: #eaeaea;
+    --med-gray: #555;
+    --dk-gray: #222;
+
+    --fonts: 'Aquavit', 'Baskerville Pro', serif;
+}
+h1{
+    font-size: 2.5rem;
+    display: inline-block;
+    font-family: var(--fonts);
+    color: var(--dk-gray);
+    font-style: normal;
+    font-weight: 700;
+}
